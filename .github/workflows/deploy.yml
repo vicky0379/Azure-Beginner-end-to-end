@@ -19,5 +19,5 @@ jobs:
     - name: Deploy to Azure App Service
       uses: azure/webapps-deploy@v2
       with:
-        app-name: MyWebApp123
+        app-name: MyWebApp0379
         package: .
